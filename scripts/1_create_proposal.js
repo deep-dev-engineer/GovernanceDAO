@@ -1,5 +1,5 @@
 const Token = artifacts.require("Token")
-const Timelock = artifacts.require("Timelock")
+const Timelock = artifacts.require("TimeLock")
 const Governance = artifacts.require("Governance")
 const Treasury = artifacts.require("Treasury")
 
